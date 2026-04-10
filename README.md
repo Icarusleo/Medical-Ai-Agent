@@ -1,7 +1,8 @@
 # 🏥 Maya: Clinical AI Agent
 
 <div align="center">
-  <p><strong>An advanced, Agentic Retrieval-Augmented Generation (RAG) medical assistant powered by Llama-3 and LangGraph.</strong></p>
+  <p><strong>An advanced, Agentic Retrieval-Augmented Generation (RAG) medical assistant powered by Llama-3 and LangGraph.
+   Code doesnt include the latest version of the system</strong></p>
 </div>
 
 ---
